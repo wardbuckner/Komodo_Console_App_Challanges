@@ -8,5 +8,7 @@ namespace WWB_Komodo_Cafe_Console_App
 {
     class Cafe_Class_1
     {
+
+
     }
 }

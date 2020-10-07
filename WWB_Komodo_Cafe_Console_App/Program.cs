@@ -10,6 +10,8 @@ namespace WWB_Komodo_Cafe_Console_App
     {
         static void Main(string[] args)
         {
+
+
         }
     }
 }
