@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace WWB_Komodo_Cafe_Class_Library
+namespace _03_Badge_Repository
 {
-    public class Cafe_Console
+    public class Class1
     {
     }
 }

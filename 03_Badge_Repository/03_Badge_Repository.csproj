@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{DE6F7783-ED29-4693-94F2-A0B3890208D2}</ProjectGuid>
+    <ProjectGuid>{71EA4FA9-01AE-42E0-B5E7-C34F456CEA1C}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>WWB_Komodo_Cafe_Class_Library</RootNamespace>
-    <AssemblyName>WWB_Komodo_Cafe_Class_Library</AssemblyName>
+    <RootNamespace>_03_Badge_Repository</RootNamespace>
+    <AssemblyName>03_Badge_Repository</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <Deterministic>true</Deterministic>
@@ -41,7 +41,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Cafe_Console.cs" />
+    <Compile Include="Class1.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

@@ -4,14 +4,14 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace WWB_Komodo_Cafe_Console_App
+namespace _01_Cafe_Console
 {
     class Program
     {
         static void Main(string[] args)
         {
-
-
+            ProgramUI program = new ProgramUI();
+            program.Run;
         }
     }
 }

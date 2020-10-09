@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("WWB_Komodo_Cafe_Class_Library")]
+[assembly: AssemblyTitle("01_Cafe_Repository")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("WWB_Komodo_Cafe_Class_Library")]
+[assembly: AssemblyProduct("01_Cafe_Repository")]
 [assembly: AssemblyCopyright("Copyright ©  2020")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("de6f7783-ed29-4693-94f2-a0b3890208d2")]
+[assembly: Guid("6728cfdf-78b5-48ae-b016-8ebf75e17922")]
 
 // Version information for an assembly consists of the following four values:
 //
